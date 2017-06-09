@@ -85,7 +85,6 @@ if [ -x /usr/bin/dircolors ]; then
 fi
 
 # some more ls aliases
-alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 
@@ -248,9 +247,9 @@ clear_directory_stack()
 }
 
 alias cd='pushd'
-alias bk='back_stack'
-alias fw='forward_stack'
-alias dhi='list_stack_reverse'
-alias goto='goto_stack'
+alias bb='back_stack'
+alias ff='forward_stack'
+alias ll='list_stack_reverse'
+alias gg='goto_stack'
 alias dcl='clear_directory_stack'
 # Directory stack ends
