@@ -1,3 +1,5 @@
+![](http://i.imgur.com/6fDrFRW.gif)
+
 # Installation
 For easy install run this command
 ```bash
