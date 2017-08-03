@@ -1,4 +1,4 @@
-![](http://i.imgur.com/6fDrFRW.gif)
+![](http://i.imgur.com/VmxdRaV.gif)
 
 # Installation
 For easy install run this command
