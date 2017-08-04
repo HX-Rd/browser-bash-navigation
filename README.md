@@ -1,6 +1,8 @@
+# Browser Bash Navigation [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://en.wikipedia.org/wiki/MIT_License)
+
 ![](http://i.imgur.com/VmxdRaV.gif)
 
-# Installation
+## Installation
 For easy install run this command
 ```bash
 cp ~/.bashrc ~/.bashrc.bak ; curl -k -Ss https://raw.githubusercontent.com/HX-Rd/browser-bash-navigation/master/browserrc >> ~/.bashrc ; source ~/.bashrc
